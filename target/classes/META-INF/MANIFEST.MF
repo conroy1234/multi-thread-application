@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: multi-thread-application
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Owner
+Implementation-Vendor-Id: multi-thread-application
+Build-Jdk: 1.8.0_192
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/multi-thread-application
+Created-By: Maven Integration for Eclipse
+
